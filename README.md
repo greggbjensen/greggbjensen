@@ -70,7 +70,7 @@ Lab Management
 #### OneGreatFamily.com
 Family History
 
-<img src="images/OneGreatFamily.png" width="200" title="Family History" /><br>
+<img src="images/One-Great-Family.png" width="200" title="Family History" /><br>
 
 
 </td></tr></table>
