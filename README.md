@@ -21,7 +21,8 @@ src="https://img.shields.io/github/followers/greggbjensen?logo=github&style=for-
 
 ### Portfolio
 
-<table><tr><td>
+<table>
+<tr><td style="vertical-align: top;">
 
 #### THE VOID
 Mixed Reality / Spatial VR
@@ -31,7 +32,7 @@ Mixed Reality / Spatial VR
 <img src="images/THE-VOID-Suits.jpg" width="200" title="THE VOID Suits" />
 
 </td>
-<td>
+<td style="vertical-align: top;">
 
 #### Church of Jesus Christ
 Recreational Properties
@@ -43,7 +44,7 @@ Space Management
 <img src="images/Space-Management.png" width="200" title="Space Management" /><br>
 
 </td>
-<td>
+<td style="vertical-align: top;">
 
 #### Ancestry.com
 Mundia
@@ -55,7 +56,7 @@ Ancestry Publisher
 <img src="images/Ancestry-Publisher.png" width="200" title="Ancestry Publisher" /><br>
 
 </td>
-<td>
+<td style="vertical-align: top;">
 
 #### Veracity Solutions
 AllScripts Prenatal
@@ -67,8 +68,8 @@ Family History
 
 <img src="images/One-Great-Family.png" width="200" title="Family History" /><br>
 
-
-</td></tr></table>
+</td></tr>
+</table>
 
 
 ### Socials
