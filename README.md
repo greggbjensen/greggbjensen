@@ -21,14 +21,27 @@ src="https://img.shields.io/github/followers/greggbjensen?logo=github&style=for-
 
 ### Portfolio
 
-<table style="border-collapse: collapse; border: none;"><tr style="border: none;"><td style="border: none;">
+<table><tr><td>
 
-#### Mixed Reality / Spatial VR
-THE VOID
+#### THE VOID
+Mixed Reality / Spatial VR
 
 <img src="images/THE-VOID-AD.jpg" width="200" title="THE VOID Ad" /><br>
 <img src="images/THE-VOID-Steven-Spielberg.jpg" width="200" title="THE VOID Steven Spielberg" /><br>
 <img src="images/THE-VOID-Suits.jpg" width="200" title="THE VOID Suits" />
+
+</td>
+<td>
+
+#### Church of Jesus Christ
+Space Management
+
+<img src="images/Space-Management.png" width="200" title="THE VOID Ad" /><br>
+
+camping.churchofjesuschrist.org
+
+<img src="images/Recreational-Properties.png" width="200" title="THE VOID Ad" /><br>
+
 
 </td></tr></table>
 
