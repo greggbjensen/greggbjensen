@@ -23,8 +23,9 @@ src="https://img.shields.io/github/followers/greggbjensen?logo=github&style=for-
 
 <table><tr><td>
 
-![THE VOID Ad](images/THE-VOID-AD.jpg)
-![THE VOID Suits](images/THE-VOID-Suits.jpg)
+<img src="images/THE-VOID-AD.jpg" width="200" title="THE VOID Ad" /><br>
+<img src="images/THE-VOID-Steven-Spielberg.jpg" width="200" title="THE VOID Steven Spielberg" /><br>
+<img src="images/THE-VOID-Suits.jpg" width="200" title="THE VOID Suits" />
 
 </td></tr></table>
 
