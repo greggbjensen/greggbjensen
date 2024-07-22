@@ -62,11 +62,6 @@ AllScripts Prenatal
 
 <img src="images/Allscripts-Prenatal.png" width="200" title="AllScripts Prenatal" /><br>
 
-#### Gomyera
-Lab Management
-
-<img src="images/Lab-Management.png" width="180" title="Lab Management" /><br>
-
 #### OneGreatFamily.com
 Family History
 
