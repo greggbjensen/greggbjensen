@@ -11,8 +11,6 @@ Proven expertise in spearheading the architecture and delivery of robust softwar
 * 🚀  I'm currently working on [PrDeploy](http://github.com/greggbjensen/prdeploy)
 * 🤝  I'm open to collaborating on Kubernetes across AWS, Google, and Azure clouds
 
-<a href="https://www.github.com/greggbjensen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/greggbjensen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
