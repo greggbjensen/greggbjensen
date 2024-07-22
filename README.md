@@ -34,13 +34,25 @@ Mixed Reality / Spatial VR
 <td>
 
 #### Church of Jesus Christ
-Space Management
-
-<img src="images/Space-Management.png" width="200" title="THE VOID Ad" /><br>
-
 camping.churchofjesuschrist.org
 
-<img src="images/Recreational-Properties.png" width="200" title="THE VOID Ad" /><br>
+<img src="images/Recreational-Properties.png" width="200" title="Recreational Properties" /><br>
+
+Space Management
+
+<img src="images/Space-Management.png" width="200" title="Space Management" /><br>
+
+</td>
+<td>
+
+#### Ancestry.com
+Mundia
+
+<img src="images/Mundia.png" width="200" title="Mundia.com" /><br>
+
+Ancestry Publisher
+
+<img src="images/Ancestry-Publisher.png" width="200" title="Ancestry Publisher" /><br>
 
 
 </td></tr></table>
