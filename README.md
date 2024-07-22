@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/greggbjensen?logo=github&style=for-
 
 ### Portfolio
 
-<table style="border-collapse: collapse; border: none;"><tr><td>
+<table style="border-collapse: collapse; border: none;"><tr style="border: none;"><td style="border: none;">
 
 #### Mixed Reality / Spatial VR
 THE VOID
