@@ -34,7 +34,7 @@ Mixed Reality / Spatial VR
 <td>
 
 #### Church of Jesus Christ
-camping.churchofjesuschrist.org
+Recreational Properties
 
 <img src="images/Recreational-Properties.png" width="200" title="Recreational Properties" /><br>
 
@@ -53,6 +53,24 @@ Mundia
 Ancestry Publisher
 
 <img src="images/Ancestry-Publisher.png" width="200" title="Ancestry Publisher" /><br>
+
+</td>
+<td>
+
+#### Veracity Solutions
+AllScripts Prenatal
+
+<img src="images/Allscripts-Prenatal.png" width="200" title="AllScripts Prenatal" /><br>
+
+#### Gomyera
+Lab Management
+
+<img src="images/Lab-Management.png" width="180" title="Lab Management" /><br>
+
+#### OneGreatFamily.com
+Family History
+
+<img src="images/OneGreatFamily.png" width="200" title="Family History" /><br>
 
 
 </td></tr></table>
