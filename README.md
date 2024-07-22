@@ -24,8 +24,10 @@ src="https://img.shields.io/github/followers/greggbjensen?logo=github&style=for-
 <table>
     <tr>
         <td>
+
             ![THE VOID Ad](images/THE-VOID-AD.jpg)
             ![THE VOID Suits](images/THE-VOID-Suits.jpg)
+            
         </td>
     </tr>
 </table>
